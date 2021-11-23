@@ -1,0 +1,16 @@
+{
+  "name": "verso-cloud-func",
+  "version": "0.0.1",
+  "description": "cloud function intermediary between db and front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.1"
+  }
+}
